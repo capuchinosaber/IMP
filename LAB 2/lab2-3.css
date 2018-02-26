@@ -1,0 +1,16 @@
+
+h1 {
+	background-color: grey;
+	text-transform: uppercase;	
+	margin-top: 0%;
+}
+
+body {
+	font-size: 17pt;
+	font-family: serif;
+	margin: 4% 2%;	
+}
+
+h2 {
+	text-transform: uppercase;
+}

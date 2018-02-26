@@ -1,0 +1,30 @@
+* HTML (Hyper Text Markup Language) is the most popular language used to write websites.
+ HTML pages connect each other via Hypertext.
+ A HTML page is always created from HTML elements regulated by a couple of tags, for example, <div></div>.
+ A HTML file includes many HTML elements and is save via the extension .html or .htm.
+ Nowadays, it is also known as XHTML also after developed.
+
+
+
+* CSS (Cascading Style Sheet) is used mainly to design layouts of website via HTML tags.
+ CSS is a little bit different from Style in HTML: Style is used to format content in HTML, then, CSS is a file including all styles for HTML.
+ So, by formating all styles via CSS file, HTML files will become clearer and better for developer when updating.
+
+
+
+* JAVASCRIPT is a type of script programming language based on ready objects or new defined objects.
+ Javascript is used widely in website applications. Javascript is supported in most browsers like: Chrome, Firefox, etc., or even on mobile applications also.
+
+
+
+* HTTP (Hyper Text Transfer Protocol) is the basic protocol for World-Wide-web to transfer data via documents, pictures, videos, sounds and other files from server and vice versace.
+
+
+* HTML5 is a new standard and the next generation of HTML.
+ HTML5 is built to reduce the usage of out-source plugin (like Adobe Flash and Silverlight).
+ HTML5 also uses new tags (articles, title, video, audio, etc.) instead of some programming code.
+ HTML5 is also more powerful when working with API and is considered as a new design tool for web development.
+
+
+* Dynamic HTML is extensive HTML language used to increase effects for HTML pages.
+ We can use DHTML effects to improve effects without programming.

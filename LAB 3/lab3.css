@@ -1,0 +1,30 @@
+button {
+	border-radius: 4px;
+	background-color: pink;
+	width: 15%;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	text-shadow: gray;
+	margin-left: 8%;
+}
+
+#vol-control {
+	width: 30%;
+}
+
+
+@media screen and (max-width: 480px) {
+	.content {
+		width: 100%;
+		text-align: center;
+	}
+
+	button {
+		width: 30%;
+	}
+
+	input[type=range] {
+		width: 80% !important;
+	}
+}

@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+	border: 2px solid yellow;
+	background-color: black;
+	padding: 10px;
+	border-radius: 7px;
+	border-spacing: 2px;
+	display: block;
+	width: 40%;
+	margin: auto;
+	text-align: center;
+}
+
+body {	
+	color: white;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+@media screen and (max-width: 480px) {
+	form {
+		width: 100%;
+	}
+}

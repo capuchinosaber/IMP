@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+	font-family: monospace;
+}
+
+h1 {
+	font-size: 50px;
+	color: red;
+	text-align: center;	
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+img {
+	width: 20%;
+	height: 20%;
+	padding: 20px 30px;
+}
+
+.button {	
+	padding-left: 50%;
+}
+

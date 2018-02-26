@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab 3 - Audio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="lab3.css">
+</head>
+
+<body>
+	<div class="content">
+		<audio id="sound">
+	        <source src="http://stream.basso.fi:8000/stream" type="audio/mpeg">
+	        <progress id="seekbar"></progress>
+    	</audio><br>
+
+   		<button onclick="playPause()" type="button" class="btn btn-success">Play/Pause</button><br><br>
+
+    	<input id="vol-control" type="range" min="0" max="100" step="1" onchange="SetVolume(this.value)"></input>
+    </div>
+		
+	<script type="text/javascript" src="lab3.js"></script>
+	
+
+</body>
+
+</html>

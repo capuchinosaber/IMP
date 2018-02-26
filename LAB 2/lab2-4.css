@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+	background-color: grey;
+	text-transform: uppercase;	
+	margin-top: 0px;
+}
+
+body {
+	font-size: 17pt;
+	font-family: serif;
+	margin: 20px 5px;	
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+.menu {
+	 height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 5;
+    left: 0;
+    text-align: center;
+  	font-size: xx-large;
+  	margin: 10px 0px;
+}
+
+.content {
+	position: absolute;
+	left: 20%;
+  text-align: justify;
+}
+
+.photo {
+	width: 80%;
+	height: 80%;
+}
+
+@media screen and (max-width: 480px) {
+  .menu{
+  	height: auto;
+  	width: 100%;
+  	z-index: 0;  	
+  	position: relative;
+  	margin-top: 5%;
+  	text-align: center;
+  	font-size: xx-large;
+
+  }
+  .content{
+  	left:5px;
+    margin: 2px 5px;
+    padding: 5px 10px;
+  }
+
+  h1, h2 {
+    margin: 0px 5px;
+    text-align: center;
+    padding: 0px 10px;
+  }
+ }

@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+  }
+
+img {    
+    width: 23em;
+    height: 23em;
+    position: relative;
+    margin: 0.7em;
+    background-color: #666;    
+    overflow: hidden;   
+  }
